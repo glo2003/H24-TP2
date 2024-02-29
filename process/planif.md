@@ -1,8 +1,8 @@
-[← Back](../README.md)
+[← Retour](../README.md)
 
 # Planification du travail
 
-L'ensemble de votre travail doit être documenté et planifier sur Github en respectant les meilleures pratiques de développement et de processus logiciel. Vous devez donc créer et maintenir à jour :
+L'ensemble de votre travail doit être documenté et planifié sur Github en respectant les meilleures pratiques de développement et de processus logiciel. Vous devez donc créer et maintenir à jour :
 
 1. Un [**Github Project**](#github-project)
 2. Un [**milestone**](#milestone) pour le TP

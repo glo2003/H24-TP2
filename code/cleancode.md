@@ -1,4 +1,4 @@
-[← Back](../README.md)
+[← Retour](../README.md)
 
 # Clean code
 
@@ -6,12 +6,14 @@ Les lignes de code s'accumulent et deviennent difficiles à lire, à comprendre 
 
 Donc, en résumé, vous devrez respecter les critères suivants :
 
+- Lisibilité
+- 🆕 Simplicité
 - Formatage (espacements, alignements, etc.)
 - Nommage représentatif et selon les conventions (packages, classes, fonctions, variables, etc.)
-- Taille et contenu des classes et des fonctions minimal
 - Éviter les commentaires inutiles et le code inutilisé
 - Éviter les valeurs "magiques" (sans nom) et préférer des constantes ou des enums lorsque nécessaire
-- Bonne utilisation des outils et de la librairie standard (ne pas réinventer la roue)
+- 🆕 Bonne utilisation des outils et de la librairie standard (ne pas réinventer la roue)
+- 🆕 Taille et contenu des classes et des fonctions minimal
 
 ## Changelog
 

@@ -1,6 +1,6 @@
-[← Back](../README.md)
+[← Retour](../README.md)
 
-# Pipeline automatisé (CI)
+# Intégration continue (CI)
 
 Afin d'augmenter la confiance de vos intégrations logicielles, vous devez mettre en place un pipeline d'intégration continue (CI). Pour ce faire, vous devez utiliser Github Actions, qui est intégré à Github. Votre pipeline doit avoir au moins les étapes séparées et explicites suivantes :
 
